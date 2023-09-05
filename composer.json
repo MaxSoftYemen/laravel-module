@@ -15,12 +15,12 @@
         "role": "Developer"
     }],
     "require": {
-        "php": "^8.0"
+        "php": ">=8.0"
     },
     "require-dev": {
-        "laravel/framework": "^9.0|^10.0",
+        "laravel/framework": "^9.0|^10.0|^10.10",
         "orchestra/testbench": "^7.4|^8.0",
-        "phpunit/phpunit": "^9.5|^10.0"
+        "phpunit/phpunit": "^9.5|^10.0|^10.1"
     },
     "autoload": {
         "psr-4": {
